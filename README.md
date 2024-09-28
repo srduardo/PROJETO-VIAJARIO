@@ -15,3 +15,5 @@ O projeto também contará com um sistema de cadastro e login, para que assim os
 Nosso objetivo é proporcionar um espaço onde você possa guardar suas memórias, reviver suas aventuras e inspirar outros viajantes a embarcarem em suas próprias jornadas. Acreditamos que cada viagem é uma história única, repleta de descobertas, desafios e momentos inesquecíveis.
 
 ![GIF](assets/4.gif)
+
+[LINK DO SLIDE DA APRESENTAÇÃO](https://www.canva.com/design/DAGSEhYi30Y/xpJNgei2m2icAJR54l5IOw/edit?utm_content=DAGSEhYi30Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
